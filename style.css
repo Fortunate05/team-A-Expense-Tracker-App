@@ -5,6 +5,20 @@
 }
 body{
     font-family: 'Times New Roman', Times, serif;
-    color: beige;
     background-color: goldenrod;
+}
+.App{
+width: 500px;
+height: 100vh;
+margin: 0;
+background-color: beige;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 3rem;
+gap: 3rem;
+}
+.header{
+    border: solid 2px cornsilk;
+    padding: 1,5rem;
 }
