@@ -6,12 +6,15 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: goldenrod;
+    margin-top: 70px;
+    margin-left: 500px;
+    margin-bottom: 70px;
 }
 .App{
 width: 500px;
 height: 100vh;
 margin: 0;
-background-color: beige;
+background-color:beige;
 display: flex;
 flex-direction: column;
 align-items: center;
