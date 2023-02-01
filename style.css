@@ -24,3 +24,12 @@ gap: 3rem;
     border: solid 2px rgb(105, 100, 80);
     padding: 1,5rem;
 }
+.table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border: 1px solid #dddd;
+    padding: 8px;
+}
