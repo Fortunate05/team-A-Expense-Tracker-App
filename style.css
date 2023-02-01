@@ -7,13 +7,12 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background-color: goldenrod;
     margin-top: 70px;
-    margin-left: 450px;
-    margin-bottom: 70px;
+    margin-left: 600px;
 }
 .App{
-width: 600px;
+width: 800px;
 height: 100vh;
-margin: 0;
+margin-bottom: 60px;
 background-color:beige;
 display: flex;
 flex-direction: column;
@@ -22,14 +21,6 @@ padding: 3rem;
 gap: 3rem;
 }
 .header{
-    border: solid 2px cornsilk;
+    border: solid 2px rgb(105, 100, 80);
     padding: 1,5rem;
-}
-table,th,td
-{
-    width: 200px;
-    margin: 0%;
-    color:gray;
-    gap: 3.1rem;
-    
 }
