@@ -25,3 +25,11 @@ gap: 3rem;
     border: solid 2px cornsilk;
     padding: 1,5rem;
 }
+table,th,td
+{
+    width: 200px;
+    margin: 0%;
+    color:gray;
+    gap: 3.1rem;
+    
+}
